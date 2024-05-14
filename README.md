@@ -3,3 +3,7 @@
 ## Meals with ingredients and recipes
 
 - Users can favorite and unfavorite their meals
+
+`Screen`
+
+![](./assets/screen.gif)
